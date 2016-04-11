@@ -3,9 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyViewPager.iml" filepath="$PROJECT_DIR$/MyViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyViewPager.iml" filepath="$PROJECT_DIR$/MyViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/myrefreshview/myrefreshview.iml" filepath="$PROJECT_DIR$/myrefreshview/myrefreshview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrefreshview/myrefreshview.iml" filepath="$PROJECT_DIR$/myrefreshview/myrefreshview.iml" />
       <module fileurl="file://$PROJECT_DIR$/myscrollview/myscrollview.iml" filepath="$PROJECT_DIR$/myscrollview/myscrollview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myscrollview/myscrollview.iml" filepath="$PROJECT_DIR$/myscrollview/myscrollview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytablayout/mytablayout.iml" filepath="$PROJECT_DIR$/mytablayout/mytablayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/mytablayout/mytablayout.iml" filepath="$PROJECT_DIR$/mytablayout/mytablayout.iml" />
     </modules>
   </component>
