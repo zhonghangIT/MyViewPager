@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 /**
  * Created by ZhongHang on 2016/4/13.
@@ -39,6 +40,12 @@ public class MyImageAdapter extends RecyclerView.Adapter<MyImageAdapter.ImageVie
         public ImageViewHolder(View itemView) {
             super(itemView);
             imageView = (ImageView) itemView.findViewById(R.id.image);
+            imageView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Toast.makeText(v.getContext(), "点击的第"+getAdapterPosition()+"条图片 ", Toast.LENGTH_SHORT).show();
+                }
+            });
         }
     }
 }
