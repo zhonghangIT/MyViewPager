@@ -10,6 +10,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/mycardview" />
+            <option value="$PROJECT_DIR$/myrecyclerview" />
             <option value="$PROJECT_DIR$/myrefreshview" />
             <option value="$PROJECT_DIR$/myscrollview" />
             <option value="$PROJECT_DIR$/mytablayout" />
@@ -19,6 +21,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/mycardview" />
+            <option value="$PROJECT_DIR$/myrecyclerview" />
             <option value="$PROJECT_DIR$/myrefreshview" />
             <option value="$PROJECT_DIR$/myscrollview" />
             <option value="$PROJECT_DIR$/mytablayout" />
